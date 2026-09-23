@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-joblib==1.5.2
-openpyxl
